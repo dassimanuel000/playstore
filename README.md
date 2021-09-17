@@ -34,10 +34,10 @@ By Dassi Manuel<br />
   <img src="/ss/s2.png" style="float:left;" width="350">
   <br/>
   <br/>
-  <img src="/s/s4.png" style="float:left;" width="350">
+  <img src="/ss/s4.png" style="float:left;" width="350">
   <br/>
-  <img src="/s/s5.png" style="float:left;" width="350">
+  <img src="/ss/s5.png" style="float:left;" width="350">
   <br/>
-  <img src="/s/s6.png" style="float:left;" width="350">
+  <img src="/ss/s6.png" style="float:left;" width="350">
   <br/>
 </p>
