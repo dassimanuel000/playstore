@@ -1,16 +1,43 @@
-# playstore_flutter
+#  playstore Public Clone UI App Flutter
 
-A new Flutter project.
+## Built By
 
-## Getting Started
+FLutter 
+By Dassi Manuel<br />
 
-This project is a starting point for a Flutter application.
+<a href="mailto:manuel.dassi@2024.ucac-icam.com">manuel.dassi@2024.ucac-icam.com</a><br />
+<a href="mailto:dassi.manuel000@gmail.com">dassi.manuel000@gmail.com</a><br />
 
-A few resources to get you started if this is your first Flutter project:
+<a href="https://www.linkedin.com/in/manuel-dassi-a43bbb195/">linkedin in Manuel-Dassi </a><br />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="https://github.com/dassimanuel000/">Github in Manuel-Dassi </a><br />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Connect with me:
+- [PORTFOLIO](http://www.ceo.life-cm.com/)
+- [youtube](https://www.youtube.com/channel/UCLPkZBskeCbhCBKrbSq_ssw)
+- [Github](https://github.com/dassimanuel000/)
+- [Twitter](https://twitter.com/mr_manuelD)
+
+### Screenshots
+
+<p align="center">
+  <img src="/ss/playstore.png" width="950">
+  <br/>
+  <br/>
+  <img src="/ss/s1.png" style="float:left;" width="350">
+  <br/>
+  <br/>
+  <img src="/ss/s3.png" style="float:left;" width="350">
+  <br/>
+  <br/>
+  <img src="/ss/s2.png" style="float:left;" width="350">
+  <br/>
+  <br/>
+  <img src="/s/s4.png" style="float:left;" width="350">
+  <br/>
+  <img src="/s/s5.png" style="float:left;" width="350">
+  <br/>
+  <img src="/s/s6.png" style="float:left;" width="350">
+  <br/>
+</p>
