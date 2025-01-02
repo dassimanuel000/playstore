@@ -1,4 +1,4 @@
-#  playstore Public Clone UI App Flutter
+#  PLAYSTORE Public Clone UI App Flutter
 
 ## Built By
 
